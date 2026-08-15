@@ -1,0 +1,24 @@
+# Secrets locaux : jamais commites.
+.env
+
+# Binaires compiles
+/bin/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Sorties de test
+*.test
+*.out
+coverage.*
+
+# IDE
+.idea/
+.vscode/
+
+# Systeme
+.DS_Store
+Thumbs.db
