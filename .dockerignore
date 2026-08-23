@@ -1,0 +1,9 @@
+# Ce qui n'a rien a faire dans le contexte de build.
+.git/
+.gitignore
+.idea/
+.vscode/
+*.md
+Dockerfile
+.dockerignore
+.env
